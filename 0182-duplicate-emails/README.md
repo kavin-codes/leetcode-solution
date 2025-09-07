@@ -43,5 +43,6 @@ Person table:
 
 
 DURING THIS
-   hi i am kavin 
+ i am 
+
    
